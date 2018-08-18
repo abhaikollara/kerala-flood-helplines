@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see httPolice Station://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: default
 # title: Police Numbers
 # permalink: /police-numbers
 ---
