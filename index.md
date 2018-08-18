@@ -9,25 +9,25 @@ exclude: true
 ## Official Goverment Helplines
 
 | --- | --- |
-| Kerala State Emergency Operations Centre | 0471-2364424 |
-| Kerala State Disaster Management Control Room | 0471-2331639 |
-| Navy നേവി |  8281292702 <br> 0471 4851335 |
+| Kerala State Emergency Operations Centre | [0471-2364424](tel:04712364424) |
+| Kerala State Disaster Management Control Room | [0471-2331639](tel:04712331639) |
+| Navy നേവി |  [8281292702](tel:8281292702) <br> [0471 4851335](tel:04714851335) |
 
 ## District Control Rooms
 Click on a district's name to view more numbers
 
 | --- | --- |
-| Kannur കണ്ണൂര്‍  | 0497 2713266 <br> 0497 2700645 <br> 8547616034 |
-| Wayanad വയനാട്  | 04936 204151 <br> 9207985027 |
-| [Kozhikode കോഴിക്കോട്](#kozhikode-കോഴിക്കോട്)  | 0495 2371002 |
-| [Malappuram മലപ്പുറം](#malappuram-മലപ്പുറം)  | 0483 2736320 <br> 0483 2736326 |
-| Palakkad പാലക്കാട്  | 0491 2505309 <br> 2505209 <br> 2505566 |
-| [Thrissur തൃശ്ശൂര്‍](#thrissur-തൃശ്ശൂര്)  | [0487 2362424](tel:04872362424) <br> 9447074424 |
-| Eranakulam എറണാകുളം  | 0484 2423513 <br> 7902200300 <br> 7902200400 |
-| Idukki ഇടുക്കി  | 0486 2233111 <br> 9061566111 <br> 9383463036 |
+| Kannur കണ്ണൂര്‍  | [0497 2713266](tel:04972713266) <br> [0497 2700645](tel:04972700645) <br> [8547616034](tel:8547616034) |
+| Wayanad വയനാട്  | [04936 204151](tel:04936 204151) <br> [9207985027](tel:9207985027) |
+| [Kozhikode കോഴിക്കോട്](#kozhikode-കോഴിക്കോട്)  | [0495 2371002](tel:0495 2371002) |
+| [Malappuram മലപ്പുറം](#malappuram-മലപ്പുറം)  | [0483 2736320](tel:04832736320) <br> [0483 2736326](tel:04832736326) |
+| Palakkad പാലക്കാട്  | [0491 2505309](tel:04912505309) <br> [2505209](tel:04912505209) <br> [2505566](tel:04912505566) |
+| [Thrissur തൃശ്ശൂര്‍](#thrissur-തൃശ്ശൂര്)  | [0487 2362424](tel:04872362424) <br> [9447074424](tel:9447074424) |
+| Eranakulam എറണാകുളം  | 0484 2423513[tel:04842423513] <br> [7902200300](tel:7902200300) <br> [7902200400](tel:7902200400) |
+| Idukki ഇടുക്കി  | [0486 2233111](tel:04862233111) <br> [9061566111](tel:9061566111) <br> [9383463036](tel:9383463036) |
 | Kottayam | ? |
-| [Alappuzha](#alappuzha-ആലപ്പുഴ) | 0477 2238630 <br> 0477 2236831 |
-| [Pathanamthitta പത്തനംതിട്ട](#pathanamthitta-പത്തനംതിട്ട)  | 0468 2322515 |
+| [Alappuzha](#alappuzha-ആലപ്പുഴ) | [0477 2238630](tel:04772238630) <br> [0477 2236831](tel:04772236831) |
+| [Pathanamthitta പത്തനംതിട്ട](#pathanamthitta-പത്തനംതിട്ട)  | [0468 2322515](tel:0468 2322515) |
 | Kollam | ? |
 | Thiruvananthapuram | ? |
 
