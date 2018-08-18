@@ -34,93 +34,71 @@ Click on a district's name to view more numbers
 ## Kozhikode കോഴിക്കോട്
 
 | --- | --- |
-| Collectorate കളക്ടറേറ്  | 0495 2371002
-| Kozhikode കോഴിക്കോട് |  0495 2372966
-| Thamarassery താമരശ്ശേരി  | 0495 2223088
-| Koyilandi കൊയിലാണ്ടി  | 0496 2620235
-| Vadakara വടകര  | 0496 2522361
+| Collectorate കളക്ടറേറ്  | [0495 2371002](tel:04952371002)
+| Kozhikode കോഴിക്കോട് |  [0495 2372966](tel:04952372966)
+| Thamarassery താമരശ്ശേരി  | [0495 2223088](tel:04952223088)
+| Koyilandi കൊയിലാണ്ടി  | [0496 2620235](tel:04962620235)
+| Vadakara വടകര  | [0496 2522361](tel:04962522361)
 
 ## Malappuram മലപ്പുറം
 
 | --- | --- |
-| മലപ്പുറം കളക്ടറേറ്റിലെ ദുരന്തനിവാരണ സെല്‍  | 04832 736320
+| മലപ്പുറം കളക്ടറേറ്റിലെ ദുരന്തനിവാരണ സെല്‍  | [04832 736320](tel:04832736320)
 
 #### Thaluk offices
 
-| Nilambur നിലമ്പൂര്‍ | 04931 221471
-| Kondotty കൊണ്ടോട്ടി  | 04832 713311
-| Eranad ഏറനാട്  | 04832 766121
-| Thirur തിരൂര്‍  | 04942 422238
-| Ponnani പൊന്നാനി  | 04942 666038
-| Perinthalmanna പെരിന്തല്‍മണ്ണ  | 04933 227230
-| Thirurangaadi തിരൂരങ്ങാടി  | 04942 461055
+| Nilambur നിലമ്പൂര്‍ | [04931 221471](tel:04931221471)
+| Kondotty കൊണ്ടോട്ടി  | [04832 713311](tel:04832713311)
+| Eranad ഏറനാട്  | [04832 766121](tel:04832766121)
+| Thirur തിരൂര്‍  | [04942 422238](tel:04942422238)
+| Ponnani പൊന്നാനി  | [04942 666038](tel:04942666038)
+| Perinthalmanna പെരിന്തല്‍മണ്ണ  | [04933 227230](tel:04933227230)
+| Thirurangaadi തിരൂരങ്ങാടി  | [04942 461055](tel:04942461055)
 
 ## Thrissur തൃശ്ശൂര്‍
 
 | --- | --- |
-| Disaster management control Room (District Emergency Operation ) | 0487-2362424
-| Deputy Collector (DM) & Nodal Officer-Relief Activities | 8547610089
-| CA to District Collector | 9447082938
-| District Collectors Office | 0487 2361020
-| Tahsildar Mukundapuram | 9447725259
-| Tahsildar Chavakkad | 9447707350
-| Tahsildar Kodungalloor | 9447702336
-| Tahsildar Thalapilly | 9447723226
-| Tahsildar Kunnamkulam | 8547002060
-| Tahsildar Thrissur | 9447731443
+| Disaster management control Room (District Emergency Operation ) | [0487-2362424](tel:04872362424)
+| Deputy Collector (DM) & Nodal Officer-Relief Activities | [8547610089](tel:8547610089)
+| CA to District Collector | [9447082938](tel:9447082938)
+| District Collectors Office | [0487 2361020](tel:04872361020)
+| Tahsildar Mukundapuram | [9447725259](tel:9447725259)
+| Tahsildar Chavakkad | [9447707350](tel:9447707350)
+| Tahsildar Kodungalloor | [9447702336](tel:9447702336)
+| Tahsildar Thalapilly | [9447723226](tel:9447723226)
+| Tahsildar Kunnamkulam | [8547002060](tel:8547002060)
+| Tahsildar Thrissur | [9447731443](tel:9447731443)
 
 
 ## Alappuzha ആലപ്പുഴ
 
 | --- | --- |
-| Pandanad പാണ്ടനാട് |  9422318038
-| Aarattupuzha ആറാട്ടുപുഴ|  9404834735 
-| Idanad ഇടനാട് | 8208590941
-| Puthankaavu പുത്തന്‍കാവ് | 8379064105
+| Pandanad പാണ്ടനാട് |  [9422318038](tel:9422318038)
+| Aarattupuzha ആറാട്ടുപുഴ|  [9404834735](tel:9404834735)
+| Idanad ഇടനാട് | [8208590941](tel:8208590941)
+| Puthankaavu പുത്തന്‍കാവ് | [8379064105](tel:8379064105)
 
 __Control rooms__ കൺട്രോൾ റൂം 
 
 | --- | --- |
-| Collectorate | 0477 2238630
-| Ambalappuzha 	| 0477 2253771
-| Cherthala 	| 0478 2813103
-| Karthikapally |	0479 2412797
-| Kuttanad 	| 0477 2702221
-| Mavelikkara | 	0479 2302216
-| Chengannur 	|0479 2452334
+| Collectorate | [0477 2238630](tel:04772238630)
+| Ambalappuzha 	| [0477 2253771](tel:04772253771)
+| Cherthala 	| [0478 2813103](tel:04782813103)
+| Karthikapally | [0479 2412797](tel:04792412797)
+| Kuttanad 	| [0477 2702221](tel:04772702221)
+| Mavelikkara | 	[0479 2302216](tel:04792302216)
+| Chengannur 	|[0479 2452334](tel:04792452334)
 
 
 ## Pathanamthitta പത്തനംതിട്ട
 
 | --- | --- |
-| Collectorate കലക്ട്രേറ്റ് | 0468 2322515 <br> 2222515 <br> 8078808915
-| Kozhanjeri കോഴഞ്ചരി | 0468 2222221
-| Adoor അടൂര്‍ | 0473 4224826
-| Konni കോന്നി | 0468 2240087
-| Mallapalli മല്ലപ്പള്ളി | 0469 2682293
-| Ranni റാന്നി | 0473 5227442
-| Thiruvalla തിരുവല്ല | 0469 2601303
-| [Police numbers പൊലീസ് നമ്പറുകൾ](police-numbers)|
-
-### NDRF teams in Pathanamthitta @ Aranmula / Kozhenchery
-
-#### Those in boat / in field 
-
-| --- | --- |
-| Haneesh  | 9495437872
-| Reji  | 9495370588
-| Jaya Lal  | 9744724932
-| Raghu  | 9495465808
-| Abhilash  | 9847080787
-| Tahsildar  | 9447712221 <br> 8547611101
-| Deputy Collector | 8547610035
-
-#### Coordinators
-
-| --- | --- |
-| Sony  (Aranmula)  |  9496370751
-| Pradeep CS  (Kozhenchery) |   9496805541 
-| Satheesh  (Ayiroor)  |  8547611214
-| Hareendranath  (Thottapuzhasseri)  | 8547611209
-| Prince Mathew  (Koyipram)   | 9447349101
-| Abhilash  (Cherukol)   | 9847080787
+| Collectorate കലക്ട്രേറ്റ് | [0468 2322515](tel:04682322515) <br> [0468 2222515](tel:04682222515) <br> [8078808915](tel:8078808915)
+| Kozhanjeri കോഴഞ്ചരി | [0468 2222221](tel:04682222221)
+| Adoor അടൂര്‍ | [0473 4224826](tel:04734224826)
+| Konni കോന്നി | [0468 2240087](tel:04682240087)
+| Mallapalli മല്ലപ്പള്ളി | [04692682293](tel:04692682293)
+| Ranni റാന്നി | [0473 5227442](tel:04735227442)
+| Thiruvalla തിരുവല്ല | [0469 2601303](tel:04692601303)
+| Police numbers പൊലീസ് നമ്പറുകൾ|[Go to page](police-numbers)|
+| NDRF Teams|[Go to page](pathanamthitta-ndrf)|
