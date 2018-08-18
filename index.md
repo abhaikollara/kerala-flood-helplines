@@ -22,7 +22,7 @@ Click on a district's name to view more numbers
 | [Kozhikode കോഴിക്കോട്](#kozhikode-കോഴിക്കോട്)  | 0495 2371002 |
 | [Malappuram മലപ്പുറം](#malappuram-മലപ്പുറം)  | 0483 2736320 <br> 0483 2736326 |
 | Palakkad പാലക്കാട്  | 0491 2505309 <br> 2505209 <br> 2505566 |
-| [Thrissur തൃശ്ശൂര്‍](#thrissur-തൃശ്ശൂര്)  | 0487 2362424 <br> 9447074424 |
+| [Thrissur തൃശ്ശൂര്‍](#thrissur-തൃശ്ശൂര്)  | [0487 2362424](tel:04872362424) <br> 9447074424 |
 | Eranakulam എറണാകുളം  | 0484 2423513 <br> 7902200300 <br> 7902200400 |
 | Idukki ഇടുക്കി  | 0486 2233111 <br> 9061566111 <br> 9383463036 |
 | Kottayam | ? |

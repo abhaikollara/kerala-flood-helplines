@@ -9,7 +9,7 @@ exclude: true
 ## Pathanamthitta police numbers
 
 | --- | --- |
-| District Police Chief | 9497996983
+| District Police Chief | [9497996983](tel:9497996983)
 | Dy SP [Admn.] | 9497990028
 | DPO | 04682222630
 | Manager | 9497965289
