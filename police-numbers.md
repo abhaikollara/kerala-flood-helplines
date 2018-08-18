@@ -3,8 +3,8 @@
 # To modify the layout, see httPolice Station://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-# title: Police Numbers
-# permalink: /police-numbers
+title: Pathanamthitta police numbers
+exclude: true
 ---
 ## Pathanamthitta police numbers
 
