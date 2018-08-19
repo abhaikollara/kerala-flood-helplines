@@ -79,7 +79,7 @@ exclude: false
 |St. Mary's UP School  |   Idukki |  Marykulam |   [9747123282](tel:9747123282)|
 |Alphonsa Ashram  |Idukki  | Rajakkadu  |  [9946015360](tel:9946015360)|
 |TVM Mannathala  | Idukki |  Ranigiri   |  [9446203490](tel:9446203490)|
-|Amalashram   |Idukki |  Thopramkudi [8547884677](tel:8547884677)|
+|Amalashram   |Idukki |  Thopramkudi | [8547884677](tel:8547884677)|
 |St. Philominas HSS Upputhara  |   Idukki  | Upputhara|
 |Amalagiri Ashram   |  Kannur |  Edatt |   Br Vinod - [0497 2805821](tel:04972805821) |
 |Vimalagiri Ashram Pattaram |  Kannur  | Iritty  | [0490 2491941](tel:04902491941) <br> [04902493491](tel:04902493491)|
@@ -98,8 +98,8 @@ exclude: false
 |Changanassery Gathsemany Ashram | Kottayam   |  Changanassery  |  [9441831970](tel:9441831970)|
 |KVK Kumarakom  |  Kottayam   |  Cheepunkal PO, Kottayam NSS High School Parippu|
 |SNDP Hall Varambinakom  | Kottayam  |   Cheepunkal PO, Kottayam NSS High School Parippu|
-|Juna masjid,Chempu  | Kottayam  |   Chempu P O  | 9496081581|
-|St Thomas L PS Chempu   Kottayam    Chempu P O, Vaikom    |[9349433947](tel:9349433947)|
+|Juna masjid,Chempu  | Kottayam  |   Chempu P O  | [9496081581](tel:9496081581)|
+|St Thomas L PS Chempu |  Kottayam  |  Chempu P O, Vaikom    |[9349433947](tel:9349433947)|
 |Jagadambika Annadanamandapam chempu  |Kottayam  | Chempu P O|   
 |Chengalam Muslim Juma-Masjid   |  Kottayam   |  Chengalam South P O, Kottayam  |  [8547584730](tel:8547584730)|
 |Govt. HSS , Chengalam  |  Kottayam   |  Chengalam South P O, Kottayam    |[9947446428](tel:9947446428)|
@@ -117,7 +117,7 @@ exclude: false
 |St. Thomsa School, Kallara   |  Kottayam  |   Kallara south|   
 |HWLPS Kallara  |  Kottayam  |   Kallara South PO|    
 |SNDP Higher Secondary School, Kanjiram  | Kottayam  |   Kanjiram P O, Kottayam  | [8281292551](tel:8281292551)|
-|Padre pio ashram   |  Kottayam   |  Kanjirappally  |  [7012300640](tel:7012300640)|
+|Padre pio ashram   |  Kottayam   |  Kanjirappally  |  [7012300640](tel:7012300640S)|
 |Indira Bhavan   | Kottayam   |  Karipoothattu|   
 |AKDS Hall, Kattikkunnu   |  Kottayam  |   Kattikkunu, Chempu PO   |  [9995224810](tel:9995224810)|
 |St.Thomas Ashram   |  Kottayam  |    Kavalam| [9496059857](tel:9496059857)|
