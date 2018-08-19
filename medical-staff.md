@@ -3,6 +3,8 @@ layout: default
 ---
 # Medical Volunteers
 
+__P.S This is an unofficial list, the contact numbers have not been confirmed__
+
 | District |  Phone |  Name |
 | ---- | ---- | ---- |
 |Alapuzha |   [8129887816](tel:8129887816) |  Dr. Anfal|
