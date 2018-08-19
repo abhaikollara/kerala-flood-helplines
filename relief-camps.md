@@ -3,6 +3,9 @@ layout: default
 title: Relief Camps
 exclude: false
 ---
+
+__P.S This is an unofficial list, the contact numbers have not been confirmed__
+
 |Camp|District|Location|Contact|
 |----|----|----|----|
 |CMI Monsatery |  Coimbatore/Palakkad||
